@@ -1,0 +1,62 @@
+# markdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["superscript","tables","with_toc_data"]
+highlighter: pygments
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+
+# Site metadata
+name: "Circular A-130"
+description: "Circular A-130: Managing Information as a Strategic Resource"
+baseurl: https://ombegov.github.io/a130
+
+# GitHub information
+org_name: ombegov
+repo_name: a130
+branch: gh-pages
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Home
+  url: /a130/
+- text: Purpose
+  url: /a130/purpose/
+- text: Applicability
+  url: /a130/applicability/
+- text: Basic Considerations
+  url: /a130/basic-considerations/
+- text: Policy
+  url: /a130/policy/
+- text: Government-wide Responsibilities
+  url: /a130/gov-wide-responsibilities/
+- text: Effectiveness
+  url: /a130/effectiveness/
+- text: Oversight
+  url: /a130/oversight/
+- text: Authorities
+  url: /a130/authorities/
+- text: Definitions
+  url: /a130/definitions/
+- text: Inquiries
+  url: /a130/inquiries/
+- text: Appendix I
+  url: /a130/appendix1/
+- text: Appendix II
+  url: /a130/appendix2/
+- text: Appendix III
+  url: /a130/appendix3/

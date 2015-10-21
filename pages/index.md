@@ -1,0 +1,30 @@
+---
+layout: page
+title: Circular A-130 Managing Information as a Strategic Resource
+permalink: /
+description: "Introduction"
+---
+
+## Background
+
+The White House [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) is proposing for the first time in fifteen years revisions to the Federal Government's governing document establishing policies for the management of Federal information resources: [Circular No. A-130, Managing Information as a Strategic Resource](https://a130.cio.gov/). More specifically, Circular A-130 provides general policy for the planning, budgeting, governance, acquisition, and management of Federal information resources. It also includes appendices outlining agency responsibilities for managing information, supporting use of electronic transactions, and protecting Federal information resources.
+
+The proposed revisions to the Circular are the result of new statutory requirements and enhanced technological capabilities since the last update to the Circular in 2000. Modernizing this policy will enable OMB to provide timely and relevant guidance to agencies and will ensure that the Federal IT ecosystem operates more securely and more efficiently while saving tax dollars and serving the needs of the American people. 
+
+The proposed Circular reflects a rapidly evolving digital economy, where more than ever, individuals, groups, and organizations rely on information technology to carry out a wide range of missions and business functions. Information technology changes rapidly and the Federal workforce managing IT must have the flexibility to address known and emerging threats while implementing continuous improvements. This update acknowledges the pace of change and the need to increase capabilities provided by 21st century technology while recognizing the need for strong governance and safeguarding of taxpayer funded assets and information. 
+
+The proposed guidance is now open for public comment on this page. **The public feedback period will be 30 days, closing on November 20, 2015.** Following the public feedback period, OMB will analyze all submitted feedback and revise the policy as necessary.
+
+### Instructions for Public Comment
+
+You may provide feedback in three ways:
+
+1. Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues) in existing issues, or start a new conversation by opening a [new issue](https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/new).
+2. Direct changes and line edits to the content may be submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request) by clicking ["Edit this page"](https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}). You do not need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found [here](https://help.github.com/articles/creating-a-pull-request). Open pull requests for the proposed guidance can be found [here](https://github.com/{{ site.org_name }}/{{ site.repo_name }}/pulls).
+3. Send your content suggestions or proposed revisions to the OMB Office of the Federal Chief Information Officer via email to [a130@omb.eop.gov](mailto:a130@omb.eop.gov). Please note that all comments received will be posted publicly on this page.
+
+### Introduction
+
+Information and information technology resources are widely recognized as one of the engines that drives the U.S. economy—giving industry a competitive advantage in the global marketplace, enabling the Federal government to provide quality services to citizens, and facilitating greater productivity as a nation. The deeply embedded nature of information technology in all Federal agency missions and business processes reflects the rapid transformation to a fully "digital" world. This transformation has provided significant opportunities for agencies through modern computing architectures, cloud technologies, and agile development techniques, to acquire and rapidly deploy highly efficient and cost-effective applications, services, and solutions. Today, agencies depend heavily on information technology to successfully carry out their missions and business functions, thus the information technology environment, including the information systems, system components, and supporting business processes must be dependable and survivable. Information systems must have the necessary levels of trustworthiness and resilience to be able to process, store, manage access to, and transmit Federal information in a timely, efficient, and secure manner and to be able to operate under adverse conditions, when necessary, to provide essential services.
+
+To provide the necessary levels of trustworthiness and resilience while maximizing advanced computing technologies, Federal information systems must be built to anticipate the modern threat space—that is, the systems should employ technologies that can significantly increase the "built-in" protection capability of those systems and make them inherently less vulnerable. This requires building trustworthiness and resilience in all layers of the information technology "stack" including the networks, systems, applications, and data, as well as hardware, firmware, operating systems, middleware, and software that comprise them. Increasing trustworthiness and resilience is a significant undertaking that requires a substantial investment in architectural design and development. The ultimate objective is to acquire and deploy more trustworthy, and resilient applications, systems, and services that are fully capable of supporting the Federal government's missions and business operations commensurate with its risk tolerance.
